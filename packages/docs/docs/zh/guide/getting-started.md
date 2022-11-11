@@ -53,6 +53,7 @@ VuePress 需要 [Node.js](https://nodejs.org/en/) >= 8.6
 
    ``` bash
    yarn docs:dev # npm run docs:dev
+   
    ```
 
    VuePress 会在 [http://localhost:8080](http://localhost:8080) 启动一个热重载的开发服务器。
